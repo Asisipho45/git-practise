@@ -1,1 +1,1 @@
-# git-practise
+I'm Asisipho Mjojeli. Currently a third year student at TUT doing Computer Science with dreams of making it into the software development world. I know the following coding lanugages : JAVA,HTML,CSS,SQL, PSQL, Kotlin and learning how to implement kotlin in Android Studios for Application development.
